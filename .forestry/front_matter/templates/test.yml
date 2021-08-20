@@ -8,3 +8,5 @@ fields:
     required: false
   label: Test
   description: test
+pages:
+- content/test.md
